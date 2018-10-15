@@ -1,0 +1,9 @@
+/mnt/5AD4A5045BBE951C/dev/UNI/VSY/MMNetworkLib/bin/Debug/netstandard2.0/MMNetworkLib.deps.json
+/mnt/5AD4A5045BBE951C/dev/UNI/VSY/MMNetworkLib/bin/Debug/netstandard2.0/MMNetworkLib.dll
+/mnt/5AD4A5045BBE951C/dev/UNI/VSY/MMNetworkLib/bin/Debug/netstandard2.0/MMNetworkLib.pdb
+/mnt/5AD4A5045BBE951C/dev/UNI/VSY/MMNetworkLib/obj/Debug/netstandard2.0/MMNetworkLib.csprojAssemblyReference.cache
+/mnt/5AD4A5045BBE951C/dev/UNI/VSY/MMNetworkLib/obj/Debug/netstandard2.0/MMNetworkLib.csproj.CoreCompileInputs.cache
+/mnt/5AD4A5045BBE951C/dev/UNI/VSY/MMNetworkLib/obj/Debug/netstandard2.0/MMNetworkLib.AssemblyInfoInputs.cache
+/mnt/5AD4A5045BBE951C/dev/UNI/VSY/MMNetworkLib/obj/Debug/netstandard2.0/MMNetworkLib.AssemblyInfo.cs
+/mnt/5AD4A5045BBE951C/dev/UNI/VSY/MMNetworkLib/obj/Debug/netstandard2.0/MMNetworkLib.dll
+/mnt/5AD4A5045BBE951C/dev/UNI/VSY/MMNetworkLib/obj/Debug/netstandard2.0/MMNetworkLib.pdb
